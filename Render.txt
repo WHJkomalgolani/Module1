@@ -1,0 +1,12 @@
+what does render mean in matter.js
+
+it used for debugging the work objects
+https://brm.io/matter-js/docs/classes/Render.html
+
+this will help
+
+render for backend 
+rect for front end
+
+while displaying in visual studio we use p5 objects 
+so we use rect,ellipse

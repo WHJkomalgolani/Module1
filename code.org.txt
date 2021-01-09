@@ -1,0 +1,6 @@
+code.org/athome/project-ideas
+ please refer this to get an overview of all labs in code.org
+
+remix is used to change from Read only mode to Write mode
+
+Debug.sprite.on at the bottom to see the collision radius for all sprites.
